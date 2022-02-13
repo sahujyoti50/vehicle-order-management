@@ -1,0 +1,11 @@
+.prev_button,
+.next_button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.prev_button[disabled],
+.next_button[disabled] {
+    opacity: 0.4;
+}
