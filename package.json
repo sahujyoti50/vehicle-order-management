@@ -18,7 +18,7 @@
     "vcc-ui": "^2.18.0"
   },
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev",  //To run on different port update the following line
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
